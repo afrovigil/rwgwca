@@ -1,0 +1,6 @@
+{
+  "name": "RWG Monitor",
+  "description": "A secure web application for tracking recommendations, actions, and milestones with role-based access control and automated email reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
